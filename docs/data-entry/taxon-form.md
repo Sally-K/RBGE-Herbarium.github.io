@@ -55,15 +55,18 @@ This will open the Taxon entry screen.
 
   ![image](https://user-images.githubusercontent.com/6713716/174128098-249a8bb9-2093-49f9-b827-533a87f3527a.png)
 
-  - **Hybrids** - enter the information as below as well as the Hybrid Information fields.
+ - **Hybrids** - enter the information as below as well as the Hybrid Information fields.
 
-    - **Hybrid formula** should be entered into this field using the standard x key.
+ - **Hybrid formula** should be entered into this field using the standard x key.
+
+ ![image](https://user-images.githubusercontent.com/47661741/180825543-a7ec0bec-a162-4eb0-a623-aaf0af4d6509.png)
+
+
+ - **Nothotaxon/Collective** names should be entered into this field including the x in front of the name.
 
 ![image](https://user-images.githubusercontent.com/8005676/180253543-3964eaaf-c3fd-4838-8e3e-ade538cf56a0.png)
 
-    - **Nothotaxon/Collective** names should be entered into this field including the x in front of the name.
-    
-    - **Infrageneric hybrid** names should be entered into this field including the + in front of the name.
+- **Infrageneric hybrid** names should be entered into this field including the + in front of the name.
 
 - **Taxonomic Rank** - enter the rank of the Taxon you are adding e.g. the rank would be **species** for Bellis perennis. The available options are presented in the dropdown list. Currently the default is the next rank below the parent.
 - **Is Accepted** - this is a read only field for the taxonomic status of the name and this is not edited within the Taxon form. The taxonomy of names are managed separately in the Taxon Tree.
@@ -96,7 +99,6 @@ This will open the Taxon entry screen.
 - **Hybrid Parent1 Sex** - enter the sex of the first parent if known
 - **Hybrid Parent2** - enter the name of the second parent
 - **Hybrid Parent2 Sex** - enter the sex of the second parent if known
-
 - **Parentage** - This information has been migrated from BG-BASE and will gradually be cleaned and transferred to the parent fields above.
 
 At any point, to save the record click Save in the bottom right of the screen. The Save and Add Another button saves the record and creates a duplicate - this should not generally be used at present.
